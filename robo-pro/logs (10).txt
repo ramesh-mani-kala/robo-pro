@@ -1,0 +1,6 @@
+Live logs will appear here...
+
+[INFO] Starting process...
+[INFO] Process completed successfully
+
+Error: Something went wrong. Please try again later.
